@@ -14,10 +14,12 @@ const settings = {
         theme: {
           menu: [
             ["Home", "/"],
-            ["Nature", "/category/nature/"],
-            ["Travel", "/category/travel/"],
-            ["Japan", "/tag/japan/"],
-            ["About Us", "/about-us/"],
+            // ["Nature", "/category/nature/"],
+            // ["Travel", "/category/travel/"],
+            // ["Japan", "/tag/japan/"],
+            // ["About Us", "/about-us/"],
+            ["Novels", "/category/novels/"],
+            ["Comics", "/category/comics/"],
           ],
           featured: {
             showOnList: false,
